@@ -1,0 +1,49 @@
+.carousel-whole{
+    background-color:#fceae8;
+    border-radius: 1em;
+    border: 0;
+    
+    
+    height: 600px;
+    
+}
+.watch-side{
+    background-color: #ffa500;
+    border: 0;
+    border-radius: 5.5em;
+    height: 150px;
+    width: 100%;
+
+}
+.watch-side img{
+    width: 30%;
+}
+.bag-side{
+    background-color: blue;
+    border: 0;
+    border-radius: 3px;
+    height: 150px;
+    width: 100%;
+}
+.bag-side img{
+    width: 30%;
+}
+.shoe-side{
+    background-color:cadetblue;
+    border: 0;
+    border-radius: 5.5em;
+    height: 150px;
+    width: 100%;
+
+}
+.panda-card{
+    border: 0;
+    background-color: white;
+    border-radius: 1em;
+    height: 200px;
+    width: 400px;
+}
+.panda-footer{
+    border: 0;
+    
+}
